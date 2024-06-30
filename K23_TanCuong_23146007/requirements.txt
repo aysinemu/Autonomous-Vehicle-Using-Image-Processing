@@ -1,0 +1,12 @@
+flask==1.1.2
+imutils==0.5.4
+opencv-python
+opencv-contrib-python
+numpy==1.19.1
+matplotlib
+Pillow==8.1.0
+python-engineio==3.13.2
+python-dateutil==2.8.1
+python-socketio==4.6.0
+flask-socketio==4.3.1
+

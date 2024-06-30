@@ -1,0 +1,13 @@
+flask
+imutils
+opencv-python
+opencv-contrib-python
+numpy
+matplotlib
+Pillow
+python-engineio
+python-dateutil
+python-socketio
+flask-socketio
+torch
+
